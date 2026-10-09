@@ -4,7 +4,7 @@
 
 105-page site for a Leskovac brass band that plays slavas, christenings and birthdays across Serbia, booked only by phone.
 
-**[trubacizaslavlja.rs](https://trubacizaslavlja.rs/)** · [Case study (in Serbian)](https://svilenkovic.com/radovi/trubaci-stars) · [Srpski](README.sr.md)
+**[trubacizaslavlja.rs](https://trubacizaslavlja.rs/)** · [Case study (in Serbian)](https://svilenkovic.rs/radovi/trubaci-stars) · [Srpski](README.sr.md)
 
 > [!NOTE]
 > Client project. The source code belongs to the client and stays in a private repository. This page describes what I built and how.
@@ -37,10 +37,10 @@ Besides six core pages there are 27 pages for occasions and saints' days and 60 
 
 | | Performance | Accessibility | Best practices | SEO |
 | :-- | :-: | :-: | :-: | :-: |
-| Mobile | 91 | 100 | 100 | 100 |
-| Desktop | 100 | 100 | 100 | 100 |
+| Mobile | 97 | 100 | 100 | 100 |
+| Desktop | 98 | 100 | 100 | 100 |
 
-PageSpeed Insights, lab test of the live site, September 2026. Security headers: 6 of 6. HTML validator: no errors. axe accessibility check: no violations. Structured data: `BreadcrumbList`, `FAQPage`, `LocalBusiness`, `MusicGroup`, `Organization`.
+PageSpeed Insights, lab test of the live site, October 2026. Security headers: 6 of 6. HTML validator: no errors. axe accessibility check: no violations. Structured data: `BreadcrumbList`, `FAQPage`, `LocalBusiness`, `MusicGroup`, `Organization`.
 
 ## Screenshots
 
