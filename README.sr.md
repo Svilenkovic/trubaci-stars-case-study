@@ -37,8 +37,8 @@ Pored šest osnovnih strana ima još 27 strana za prilike i slave i 60 strana za
 
 | | Performanse | Pristupačnost | Dobre prakse | SEO |
 | :-- | :-: | :-: | :-: | :-: |
-| Telefon | 97 | 100 | 100 | 100 |
-| Desktop | 98 | 100 | 100 | 100 |
+| Telefon | 98 | 100 | 100 | 100 |
+| Desktop | 100 | 100 | 100 | 100 |
 
 PageSpeed Insights, laboratorijsko merenje živog sajta, oktobar 2026. Sigurnosna zaglavlja: 6 od 6. HTML validator: bez grešaka. axe provera pristupačnosti: bez prekršaja. Strukturisani podaci: `BreadcrumbList`, `FAQPage`, `LocalBusiness`, `MusicGroup`, `Organization`.
 
